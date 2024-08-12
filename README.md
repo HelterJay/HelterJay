@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm **Helter Jay**!
 
-###About Me:
+### About Me:
 
 - 📚 I'm currently learning more about coding and further refining my skills.
 - 👀 I'm interested about software development along with its specialized fields.
@@ -9,7 +9,7 @@
 
 
 
-###⚡ Fun Facts:
+### ⚡ Fun Facts:
 - I take coffee breaks ☕️.
 - When not coding or busy, I do some light gaming 🎮.
   
