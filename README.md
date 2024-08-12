@@ -1,4 +1,22 @@
-## Hi there 👋
+## 👋 Hello, I'm **Helter Jay**!
+
+###About Me:
+
+- 📚 I'm currently learning more about coding and further refining my skills.
+- 👀 I'm interested about software development along with its specialized fields.
+- 🔧 I'm also looking forward to contribute and build projects.
+- 📍 Living in the Philippines.
+
+
+
+###⚡ Fun Facts:
+- I take coffee breaks ☕️.
+- When not coding or busy, I do some light gaming 🎮.
+  
+
+
+###My Educational Journey & Aspirations:
+Currently preparing to enter university, but I'm also exploring the possibility of transitioning to a self-taught path if possible.
 
 <!--
 **HelterJay/HelterJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
