@@ -15,7 +15,7 @@
   
 
 
-###My Educational Journey & Aspirations:
+### My Educational Journey & Aspirations:
 Currently preparing to enter university, but I'm also exploring the possibility of transitioning to a self-taught path if possible.
 
 <!--
