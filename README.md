@@ -16,7 +16,7 @@
 
 
 ### My Educational Journey & Aspirations:
-Currently preparing to enter university, but I'm also exploring the possibility of transitioning to a self-taught path if possible.
+Currently in college, but I'm also exploring the possibility of transitioning to a self-taught programming path if possible.
 
 <!--
 **HelterJay/HelterJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
