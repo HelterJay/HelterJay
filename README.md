@@ -3,7 +3,7 @@
 ### About Me:
 
 - 📚 I'm currently learning more about coding and further refining my skills.
-- 👀 I'm interested about software development along with its specialized fields.
+- 👀 I'm interested about software development along with its specialized fields, but for now just doing web devlopment as practice.
 - 🔧 I'm also looking forward to contribute and build projects.
 - 📍 Living in the Philippines.
 
